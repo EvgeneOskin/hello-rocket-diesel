@@ -1,0 +1,6 @@
+[package]
+name = "hello-rust-hero-api"
+version = "0.1.0"
+authors = ["EvgeneOskin <eoskin@crystalnix.com>"]
+
+[dependencies]
